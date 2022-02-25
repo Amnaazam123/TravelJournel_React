@@ -1,2 +1,2 @@
-# TravelJournel_React
+# TravelJournelInReact
 Created with CodeSandbox
